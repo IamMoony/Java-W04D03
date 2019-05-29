@@ -1,4 +1,4 @@
-package Basic_A1_Sort;
+package Basic_A1_Simon;
 
 import java.util.Arrays;
 

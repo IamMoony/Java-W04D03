@@ -1,6 +1,4 @@
-package Basic_A1_Sort;
-
-import java.sql.SQLOutput;
+package Basic_A1_Simon;
 
 public class Main {
 
