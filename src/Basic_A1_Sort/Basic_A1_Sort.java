@@ -11,6 +11,11 @@ public class Basic_A1_Sort {
 
         }
 
+        public static int seclargest(int array[], int m) {
+            Arrays.sort(array);
+            return array[m - 2];
+        }
+
 
     }
 
