@@ -1,3 +1,5 @@
+package Basic_Julan;
+
 public class BasicA0_var1 {
 
     static int arr[] = {10, 50, 70, 999, 23};
